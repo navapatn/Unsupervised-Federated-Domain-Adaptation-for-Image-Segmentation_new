@@ -30,7 +30,7 @@ We used MICCAI2016 brain lesion dataset to train DeepJDOT and our ensemble metho
 * patches_comparison -Deepjdot module contains the implementation of the DeepJDOT
 * dnn - import necessary functions from keras
 * 3dunet - prebuilt 3d unet model
-* training_testing - code for training and testing for MICCAI 2016.
+* training_testing - code for training and testing for MICCAI 2016 and ensemble code
 * call.sh, main.py - batch script to automate training and testing process
 * create_exp.py - script for creating multiple hyperparameter setups for running experiments.
 * config.py - configuration file for custom adjustment of hyperparameters, file path, etc.
